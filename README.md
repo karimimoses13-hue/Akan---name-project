@@ -5,9 +5,7 @@
 #Project Description
 
 The Akan Name Generator is a simple  application that helps users discover their Akan name based on their date of birth and gender.
-
-. This project makes it easy and fun to find out your Akan name using basic web technologies.
-echnologies Used
+This project makes it easy and fun to find out your Akan name using basic web technologies.
 
 #This project was built using:
 
